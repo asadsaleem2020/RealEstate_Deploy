@@ -4,6 +4,9 @@
 :root {
   scroll-behavior: smooth;
 }
+::-webkit-scrollbar {
+  display: none;
+}
 @font-face {
   font-family: "Tajawal" !important;
   src: url("./assets/fonts/Tajawal-Regular.ttf");
